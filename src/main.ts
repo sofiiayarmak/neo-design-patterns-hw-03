@@ -1,3 +1,4 @@
+/// <reference types="node" />
 import { StripeFactory } from "./providers/stripe/StripeFactory";
 import { PaypalFactory } from "./providers/paypal/PaypalFactory";
 import { AppleFactory } from "./providers/apple/AppleFactory";
